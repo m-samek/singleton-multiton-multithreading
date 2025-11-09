@@ -1,0 +1,14 @@
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\bin\Debug\net9.0\SingletonMultithreading.exe
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\bin\Debug\net9.0\SingletonMultithreading.deps.json
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\bin\Debug\net9.0\SingletonMultithreading.runtimeconfig.json
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\bin\Debug\net9.0\SingletonMultithreading.dll
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\bin\Debug\net9.0\SingletonMultithreading.pdb
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\obj\Debug\net9.0\SingletonMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\obj\Debug\net9.0\SingletonMultithreading.AssemblyInfoInputs.cache
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\obj\Debug\net9.0\SingletonMultithreading.AssemblyInfo.cs
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\obj\Debug\net9.0\SingletonMultithreading.csproj.CoreCompileInputs.cache
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\obj\Debug\net9.0\SingletonMultithreading.dll
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\obj\Debug\net9.0\refint\SingletonMultithreading.dll
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\obj\Debug\net9.0\SingletonMultithreading.pdb
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\obj\Debug\net9.0\SingletonMultithreading.genruntimeconfig.cache
+C:\Users\pozna\RiderProjects\Singleton\SingletonMultithreading\obj\Debug\net9.0\ref\SingletonMultithreading.dll

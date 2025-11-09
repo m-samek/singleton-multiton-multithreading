@@ -1,0 +1,14 @@
+C:\Users\pozna\RiderProjects\Singleton\Multiton\bin\Debug\net9.0\Multiton.exe
+C:\Users\pozna\RiderProjects\Singleton\Multiton\bin\Debug\net9.0\Multiton.deps.json
+C:\Users\pozna\RiderProjects\Singleton\Multiton\bin\Debug\net9.0\Multiton.runtimeconfig.json
+C:\Users\pozna\RiderProjects\Singleton\Multiton\bin\Debug\net9.0\Multiton.dll
+C:\Users\pozna\RiderProjects\Singleton\Multiton\bin\Debug\net9.0\Multiton.pdb
+C:\Users\pozna\RiderProjects\Singleton\Multiton\obj\Debug\net9.0\Multiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pozna\RiderProjects\Singleton\Multiton\obj\Debug\net9.0\Multiton.AssemblyInfoInputs.cache
+C:\Users\pozna\RiderProjects\Singleton\Multiton\obj\Debug\net9.0\Multiton.AssemblyInfo.cs
+C:\Users\pozna\RiderProjects\Singleton\Multiton\obj\Debug\net9.0\Multiton.csproj.CoreCompileInputs.cache
+C:\Users\pozna\RiderProjects\Singleton\Multiton\obj\Debug\net9.0\Multiton.dll
+C:\Users\pozna\RiderProjects\Singleton\Multiton\obj\Debug\net9.0\refint\Multiton.dll
+C:\Users\pozna\RiderProjects\Singleton\Multiton\obj\Debug\net9.0\Multiton.pdb
+C:\Users\pozna\RiderProjects\Singleton\Multiton\obj\Debug\net9.0\Multiton.genruntimeconfig.cache
+C:\Users\pozna\RiderProjects\Singleton\Multiton\obj\Debug\net9.0\ref\Multiton.dll
